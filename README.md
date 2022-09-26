@@ -7,9 +7,9 @@
 </div>
 
 <div style="display: inline_block"><br>
+  <img align="left" alt="tcheloAnime" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1023873816704856098/1023903351617888366/download20220901052215.png">
   <img height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt="tcheloAnime" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/102193958/192245596-2c3f47ef-24cf-48c3-931f-a0cad23abbb8.gif">
-  
+  <img align="right" alt="tcheloAnime" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1023873816704856098/1023903351202660412/download20220901052251.png">
   </div>
   
  
@@ -26,7 +26,3 @@
  
 </div>
   
-  ![picasion com_4bb752e9c38cbddc2d4365e085b5e1f7](https://user-images.githubusercontent.com/102193958/192245596-2c3f47ef-24cf-48c3-931f-a0cad23abbb8.gif)
-
-  ![picasion com_4bb752e9c38cbddc2d4365e085b5e1f7](https://user-images.githubusercontent.com/102193958/192245596-2c3f47ef-24cf-48c3-931f-a0cad23abbb8.gif)
-
