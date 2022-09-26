@@ -3,14 +3,14 @@
 <div> 
   <a href="https://github.com/marcelotortorelli">
   
-  <img height="160em" width"140em" src="https://github-readme-stats.vercel.app/api?username=marcelotortorelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcelotortorelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img height="160em" width"140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotortorelli&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotortorelli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
+  ![picasion com_4bb752e9c38cbddc2d4365e085b5e1f7](https://user-images.githubusercontent.com/102193958/192245596-2c3f47ef-24cf-48c3-931f-a0cad23abbb8.gif)
   </div>
   
   ##
