@@ -10,8 +10,7 @@
 
 <div style="display: inline_block"><br>
   <img height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="right" alt+"tchelo-anime"
-  src="https://discord.com/channels/1023873816704856095/1023873816704856098/1023873905041088524">
+  
   </div>
   
   ##
@@ -25,3 +24,7 @@
   ![Snake animation](https://github.com/marcelotortorelli/marcelotortorelli/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ![picasion com_4bb752e9c38cbddc2d4365e085b5e1f7](https://user-images.githubusercontent.com/102193958/192245596-2c3f47ef-24cf-48c3-931f-a0cad23abbb8.gif)
+
+  
