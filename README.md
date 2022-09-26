@@ -1,16 +1,27 @@
-### Hi there 👋
+## Olá! eu sou o Marcelo Tortorelli 👋
 
-<!--
-**marcelotortorelli/marcelotortorelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+  <a href="https://github.com/marcelotortorelli">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelotortorelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotortorelli&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="right" alt+"tchelo-anime"
+  src="https://discord.com/channels/1023873816704856095/1023873816704856098/1023873905041088524">
+  </div>
+  
+  ##
+  
+  <div> 
+  <a href="https://www.youtube.com/channel/UCENjoHOAyGtbTt16MBd1mQA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/tortorelli__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/eTchelo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:marcelo.marini64@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/marcelotortorelli/marcelotortorelli/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
