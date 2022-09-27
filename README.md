@@ -7,8 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="left" alt="tcheloAnime" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1023873816704856098/1024403826050085024/fine.png">
-  <img height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+   <img height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="right" alt="tcheloAnime" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1023873816704856098/1024403826050085024/fine.png">
   </div>
   
